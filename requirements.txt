@@ -1,2 +1,4 @@
 chembl_webresource_client
-pandas
+lazypredict
+padelpy
+rdkit

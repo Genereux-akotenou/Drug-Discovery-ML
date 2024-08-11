@@ -1,5 +1,11 @@
-CCOc1nn(-c2cccc(OCc3ccccc3)c2)c(=O)o1 CHEMBL133897
-O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC1CC1 CHEMBL336398
-CN(C(=O)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F)c1ccccc1 CHEMBL131588
-O=C(N1CCCCC1)n1nc(-c2ccc(Cl)cc2)nc1SCC(F)(F)F CHEMBL130628
-CSc1nc(-c2ccc(OC(F)(F)F)cc2)nn1C(=O)N(C)C CHEMBL130478
+O=C1c2cccc(O)c2CCC1Cc1ccncc1	CHEMBL93828
+O=C1/C(=C/c2ccncc2)CCc2cc(O)ccc21	CHEMBL91992
+COc1ccc2c(c1)C(=O)/C(=C/c1ccncc1)CC2	CHEMBL419131
+O=C1/C(=C/c2ccncc2)CCc2ccc(O)cc21	CHEMBL313774
+O=C1c2ccc(O)cc2CCC1Cc1ccncc1	CHEMBL91818
+Cc1ccc(S(=O)(=O)NCc2cccc(CNS(=O)(=O)c3ccc(C)cc3)c2)cc1	CHEMBL4449929
+Cc1cc(C)c(C)c(S(=O)(=O)NCc2cccc(CNS(=O)(=O)c3c(C)c(C)cc(C)c3C)c2)c1C	CHEMBL4436270
+O=S(=O)(NCc1cccc(CNS(=O)(=O)c2ccc3ccccc3c2)c1)c1ccc2ccccc2c1	CHEMBL4462178
+COc1ccc(C(=O)c2ccc(Cn3ccnc3)cc2)cc1	CHEMBL5278229
+O=C(c1ccc(O)cc1)c1ccc(Cn2ccnc2)cc1	CHEMBL5275747
+O=C(c1ccc(Cn2ccnc2)cc1)c1ccc(-c2ccccc2)cc1	CHEMBL5273068

@@ -17,7 +17,11 @@ Descriptor Calculation and Dataset Preparation
 Regression Models with Random Forest
 <br>
 ### Part 5
----
+Comparing Regressors
+<br>
 
 ### Part 6
----
+App Deployment
+<br>
+
+<img src="./Part_6_Deployment_App/utils/logo.png"/>

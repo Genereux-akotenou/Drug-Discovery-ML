@@ -3,11 +3,11 @@
 ### Create conda environment
 Firstly, we will create a conda environment called *lab1_env*
 ```
-python -m venv bioactivity
+python -m venv bioactivity-env
 ```
 Secondly, we will login to the *lab1_env* environement
 ```
-source ./bioactivity/bin/activate
+source ./bioactivity-env/bin/activate
 ```
 ### Install prerequisite libraries
 Pip install libraries
